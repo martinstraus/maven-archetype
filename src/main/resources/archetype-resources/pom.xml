@@ -9,7 +9,7 @@
     <description></description>
     <url>https://github.com/your-org/your-project</url>
     <properties>
-        <java.version>16</java.version>
+        <java.version>${java.version}</java.version>
         <junit.version>5.5.2</junit.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
