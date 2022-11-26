@@ -10,4 +10,4 @@ Maven archetype for initializing Java projects
     mvn archetype:generate \
         -DarchetypeGroupId=guybrush.maven.archetypes \
         -DarchetypeArtifactId=java-basic \
-        -DarchetypeVersion=2.0
+        -DarchetypeVersion=2.1

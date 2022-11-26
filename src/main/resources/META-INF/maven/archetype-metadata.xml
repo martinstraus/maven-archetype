@@ -4,7 +4,7 @@
     name="java-basic">
     <requiredProperties>
         <requiredProperty key="java.version">
-            <defaultValue>16</defaultValue>
+            <defaultValue>18</defaultValue>
         </requiredProperty>
     </requiredProperties>
     <fileSets>
